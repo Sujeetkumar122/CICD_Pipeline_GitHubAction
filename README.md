@@ -1,11 +1,13 @@
 # 🚀 Terraform CI/CD Pipeline with GitHub Actions
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Terraform_CI%2FCD-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform CI/CD"/>
+  <img src="https://img.shields.io/badge/⚙️_GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/☁️_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+</p>
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?style=for-the-badge)
-
+<p align="center">
+  <b>🌿 Feature Branch → 📋 Terraform Plan → 🔀 Pull Request → 🚀 Terraform Apply → ☁️ Azure</b>
+</p>
 > 🛠️ **Learning Project:** Terraform + GitHub Actions CI/CD pipeline for automating Azure infrastructure deployment.
 
 ---
